@@ -1,0 +1,4 @@
+postgres
+django
+djangorestframework
+django-filter
